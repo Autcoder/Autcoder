@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### Hi there, it's me Florian. A random guy coding his way.  
+### Hi, it's me Florian. A random guy on Github coding his way.  
 
 ```diff
-+ Currently working on:
++ Currently working on: A random Project
 ```
 - 🧬 **Evolution Simulation** – A simple program that simulates evolution over time.
 - 🖥️ **Language Installer** – Install programming languages without remembering commands.
