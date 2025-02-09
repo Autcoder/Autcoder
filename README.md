@@ -7,7 +7,7 @@
 ```
 - 🧬 **Evolution Simulation** – A simple program that simulates evolution over time.
 - 🖥️ **Language Installer** – Install programming languages without remembering commands.
-- 🧮 **Terminal Calculator** – A lightweight math tool for quick calculations.
+- 🧮 **Terminal Calculator** – A terminal based math tool for quick calculations or pretty much anything.
 
 (Also, I'm pretty good at procrastinating 😆)
 
