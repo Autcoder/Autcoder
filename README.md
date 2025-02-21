@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 - 🛠 Interested in **automation**, **mathematical simulations**, and **making life easier with code**.
-- 📩 Contact me via **email**: [your-email@example.com](mailto:autcoder.github@gmail.com)
+- 📩 Contact me via **email**: [autcoder.github@gmail.com](mailto:autcoder.github@gmail.com)
 - 🏗️ Always building something… or thinking about it.  
 
 ---
