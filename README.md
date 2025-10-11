@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi, it's me Florian. A random guy on Github coding his way.  
+### Hi, it's me Elyndra. A random person on Github coding his way.  
 
 ```diff
 + Currently working on: A random Project
@@ -21,7 +21,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Florian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Autcoder&show_icons=true&theme=radical)
+![Elyndra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Autcoder&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autcoder&layout=compact&theme=radical)
 
