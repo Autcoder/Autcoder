@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi, it's me Elyndra. A random person on Github coding his way.  
+### Hi, it's me Elyndra. A random person on Github coding its way.  
 
 ```diff
 + Currently working on: A random Project
