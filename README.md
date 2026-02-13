@@ -20,13 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Elyndra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Autcoder&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Autcoder&layout=compact&theme=radical)
-
----
-
 ### ⌨️ Fun Fact:  
 I probably have a million ideas, but I’m *really* good at not finishing them 😆
 
